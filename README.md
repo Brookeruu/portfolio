@@ -7,6 +7,8 @@
 
 _This site was created as the Friday Independent Project for Week 1. It has a brief description about and my background, followed by a list of all the projects completed this week._
 
+Link to github:
+
 ## Setup/Installation Requirements
 * Clone this repository
 * Open in browser of your choice
