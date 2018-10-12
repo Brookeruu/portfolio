@@ -1,0 +1,8 @@
+.header {
+  background-image: url("../img/monstera.jpeg");
+  background-size: cover;
+  background-repeat: repeat;
+  background-position: center;
+  text-align: center;
+  color: white;
+}
