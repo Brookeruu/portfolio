@@ -6,6 +6,8 @@
   text-align: center;
   color: white;
   padding: 50px;
+  margin-bottom: 50px;
+  margin-top: 20px;
 }
 
 p.col-title {
@@ -14,8 +16,20 @@ p.col-title {
 }
 
 .border {
-  border: 2px solid green;
-  padding: 4px;
+  border: 2px solid #e3e0cc;
+  padding: 10 px;
   margin: 12px;
+  background-color: #e3e0cc;
 
+}
+
+.float-right {
+  float: right;
+  width: 25%;
+  padding-left: 10px;
+  border-radius: 25px;
+}
+
+.panel-default > .panel-heading-custom {
+  background: #9fa9a3;
 }
