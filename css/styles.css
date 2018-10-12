@@ -17,12 +17,12 @@ p.col-title {
 }
 
 .border {
-  border: 2px solid #e3e0cc;
+  border: 0px;
   padding: 10 px;
   margin: 12px;
-  background-color: #e3e0cc;
-
+  background-color: #D6D9CA;
 }
+
 
 .float-right {
   float: right;
@@ -32,7 +32,7 @@ p.col-title {
 }
 
 .panel-default > .panel-heading-custom {
-  background: #9fa9a3;
+  background: #73804B;
 }
 .small-text {
   font-size: 12px;
@@ -41,4 +41,10 @@ p.col-title {
 .panel-color {
   background-color: #c5d5c5;
 
+}
+
+.img-max {
+  max-width: 40%;
+  max-height: 40%;
+  border-radius: 10%;
 }
