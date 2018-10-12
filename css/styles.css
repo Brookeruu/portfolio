@@ -13,6 +13,16 @@ h1 {
   font-size: 90px;
 }
 
+.text {
+  text-align: left;
+}
+
+.about-text {
+  font-size: 15px;
+  color: #330F0A;
+  line-height: 200%;
+}
+
 p.col-title {
   font-size: 16px;
   font-weight: bold;
@@ -55,8 +65,12 @@ p.col-title {
 }
 
 blockquote {
-  display: block;
   margin-top: 16px;
   margin-bottom: 16px;
   max-width: 400px;
+}
+
+#me {
+  max-width: 100%;
+  max-height: 100%;
 }
