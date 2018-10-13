@@ -7,7 +7,7 @@
 
 _This site was created as the Friday Independent Project for Week 1. It has a brief description about and my background, followed by a list of all the projects completed this week._
 
-Link to github:
+Link to github: https://brookeruu.github.io/portfolio/
 
 ## Setup/Installation Requirements
 * Clone this repository
